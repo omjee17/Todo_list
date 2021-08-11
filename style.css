@@ -1,0 +1,10 @@
+#ulTasks li.done{
+    color: rgb(95, 87, 87);
+    text-decoration: line-through;
+}
+body{
+     background-color: rgba(231, 215, 191, 0.308);
+}
+.main{
+    margin-top: 50pt;
+}
